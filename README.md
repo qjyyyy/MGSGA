@@ -27,4 +27,4 @@ main_task_retrieval.py --do_train --num_thread_reader=0 \
 --interaction hybrid
 ```
 ## Acknowledgements
-This code implementation are adopted from [Alt](https://github.com/openai/CLIP "CLIP") and [Alt](https://github.com/foolwood/DRL "DRL"). We sincerely appreciate for their contributions.
+This code implementation are adopted from [CLIP](https://github.com/openai/CLIP "CLIP") and [DRL](https://github.com/foolwood/DRL "DRL"). We sincerely appreciate for their contributions.
