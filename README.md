@@ -3,7 +3,7 @@ The implementation of paper **MGSGA: Multi-grained and Semantic-guided Alignment
 ![alt](https://github.com/qjyyyy/MGSGA/blob/main/pics/framework-1.png "title")
 
 ## Updates
-[2023/11/07]: We will release the code asap. (I am busy with other DDLs. After that, I will open the source code as soon as possible. Please understand.)
+[2023/11/07]: We will release the code later.
 
 
 ## Quick Start
